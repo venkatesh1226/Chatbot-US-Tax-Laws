@@ -1,8 +1,5 @@
-# React + Vite
+## If Related to US taxes, it would respond like this
+<img width="730" alt="image" src="https://github.com/venkatesh1226/Chatbot-US-Tax-Laws/assets/51997864/62078beb-1bd6-4bec-a863-c1e7cabc5c67">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## If Questions are not related to US tax laws it would answer like this:
+<img width="596" alt="image" src="https://github.com/venkatesh1226/Chatbot-US-Tax-Laws/assets/51997864/5a55eddd-6e97-4f99-a9ca-6e0a3f6bcc18">
