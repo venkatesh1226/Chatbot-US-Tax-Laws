@@ -4,7 +4,7 @@ import "./Chatbot.css";
 import OpenAI from "openai";
 
 const openai = new OpenAI({
-  apiKey: "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", // defaults to process.env["OPENAI_API_KEY"]
+  apiKey: "YOUR_KEY", // defaults to process.env["OPENAI_API_KEY"]
   dangerouslyAllowBrowser: true,
 });
 
